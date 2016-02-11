@@ -1,5 +1,6 @@
 {
   "name": "forcetk.mobilesdk",
+  "version": "1.0.0",
   "main": "dist/forcetk.mobilesdk.js",
   "authors": [
     "Brett Nelson <Brett@WIPDeveloper.com>"
