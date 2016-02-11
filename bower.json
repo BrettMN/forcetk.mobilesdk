@@ -1,0 +1,29 @@
+{
+  "name": "forcetk.mobilesdk",
+  "main": "dist/forcetk.mobilesdk.js",
+  "authors": [
+    "Brett Nelson <Brett@WIPDeveloper.com>"
+  ],
+  "description": "A bower distribution of forcetk.mobilesdk.js, a library created by Salesforce for the Salesforce.com Mobile SDK Shared.",
+  "moduleType": [],
+  "keywords": [
+    "Salesforce.com",
+    "Mobile",
+    "SDK",
+    "Shared",
+    "forcetk.mobilesdk.js"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/BrettMN/forcetk.mobilesdk",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "SalesforceMobileSDK-Shared": "https://github.com/forcedotcom/SalesforceMobileSDK-Shared.git",
+    "jquery": "^2.2.0"
+  }
+}
